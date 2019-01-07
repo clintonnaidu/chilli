@@ -1,2 +1,2 @@
 # chilli
-"This i sthe chilli repo
+"This is the chilli repo
